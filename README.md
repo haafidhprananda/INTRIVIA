@@ -10,3 +10,6 @@
 
 ## Kesan Pesan Cluster [Nomor Cluster] Sejauh Ini 
 [Tulis kesan dan pesan kamu tentang cluster kamu di sini]
+
+## Harapan Kuliah 
+[Tulis harapan kamu di sini] 
